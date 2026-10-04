@@ -1,7 +1,6 @@
 import DB from '../assets/ER_Diagram_DB4Hotel.png';
 import python from '../assets/python.png';
 import landingPage from '../assets/Landing Page.JPG';
-import './Service.css'
 
 function Service(){
     return (

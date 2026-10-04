@@ -6,7 +6,7 @@ function About(){
     return(
         <div>
             <h1>About Me</h1>
-            <img src={mugshot} height="280" width="200" alt="Daniel Ding" />
+            <img src={mugshot} style={{ height: "280px", width: "200px" }} alt="Daniel Ding" />
             <p>My name is Daniel Ding.</p>
             <p>I am a second year student in Centennial College have just completed my first year of study.</p>
             <h2>My Skills</h2>
